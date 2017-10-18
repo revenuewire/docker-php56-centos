@@ -1,0 +1,17 @@
+run
+supervise/
+*.iml
+.DS_Store
+*.swp
+*.iml
+*~
+nbproject
+.tags*
+sftp-config.json
+.idea
+npm-debug.log
+run
+supervise/
+/node_modules/.cache
+/dist
+swagger-codegen-cli.jar
